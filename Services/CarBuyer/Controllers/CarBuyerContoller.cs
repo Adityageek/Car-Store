@@ -14,30 +14,11 @@ namespace CarBuyer.Controllers
         {
             var query = DB.PagedSearch<Car, Car>();
 
-            if (!string.IsNullOrEmpty(searchParams.SearchTerm))
-            {
-                query.Match(Search.Full, searchParams.SearchTerm).SortByTextScore();
-            }
-
-            // Sort by parameters
-            query = searchParams.OrderBy switch
-            {
-                "modelyear" => query.Sort(x => x.Ascending(y => y.ModelYear)),
-                _ => query.Sort(x => x.Ascending(y => y.CreatedAt)),
-            };
-
-            // Filter by parameters
-            query = searchParams.FilterBy switch
-            {
-                "available" => query.Match(x => x.Status == "Available"),
-                "sold" => query.Match(x => x.Status == "Sold"),
-                _ => query.Sort(x => x.Ascending(y => y.CreatedAt)),
-            };
-
             if (!string.IsNullOrEmpty(searchParams.Name))
             {
-                query.Match(x => x.Name == searchParams.Name);
+                query.Match(Search.Full, searchParams.Name).SortByTextScore();
             }
+
 
             var result = await query.ExecuteAsync();
 

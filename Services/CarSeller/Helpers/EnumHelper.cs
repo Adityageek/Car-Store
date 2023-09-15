@@ -6,11 +6,11 @@ namespace CarSeller.Helpers
     {
         public static Status EnumParse(string value, Status defaultStatus)
         {
-            if (!Enum.TryParse(value, out Status animalStatus))
+            if (!Enum.TryParse(value, out Status carStatus))
             {
                 return defaultStatus;
             }
-            return animalStatus;
+            return carStatus;
         }
     }
 }
