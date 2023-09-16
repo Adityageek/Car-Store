@@ -1,6 +1,4 @@
-﻿using CarSeller.Entities;
-
-namespace CarSeller.Dtos
+﻿namespace CarSeller.Dtos
 {
     public class UpdateCarDto
     {

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1QiIwxtDF2JxjmNeqD/3rQhWMdsFL5LyVQjNg7T2iJfjficVsVHhKnTTlpdSjGHvYF7vuNQp7PEvdQOKPiFvw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Car Store\\CarStore.Core\\CarStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

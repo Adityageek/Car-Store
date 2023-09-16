@@ -12,7 +12,6 @@ C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\AWSSDK.SecurityToken.
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Azure.Core.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Azure.Identity.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\DnsClient.dll
-C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Humanizer.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MassTransit.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MassTransit.Abstractions.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
@@ -22,10 +21,8 @@ C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Bcl.AsyncIn
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
@@ -47,7 +44,6 @@ C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MongoDB.Driver.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MongoDB.Driver.Core.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MongoDB.Entities.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
-C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Polly.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Polly.Extensions.Http.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\RabbitMQ.Client.dll
@@ -56,7 +52,6 @@ C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Snappier.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\System.CodeDom.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\System.Drawing.Common.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
@@ -107,3 +102,14 @@ C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Events.runtimeconfig.
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Events.exe
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Events.dll
 C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Events.pdb
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Core.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Infrastructure.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Infrastructure.pdb
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Core.pdb
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Humanizer.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\System.CodeDom.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Services.dll
+C:\Workspace\Car Store\Services\CarSeller\bin\Debug\net7.0\CarStore.Services.pdb

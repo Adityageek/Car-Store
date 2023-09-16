@@ -1,5 +1,4 @@
-﻿using CarSeller.Entities;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace CarSeller.Dtos
 {
@@ -20,7 +19,7 @@ namespace CarSeller.Dtos
         [Required]
         public string Description { get; set; }
 
-        [Required]    
+        [Required]
         public string Image { get; set; }
 
         [Required]

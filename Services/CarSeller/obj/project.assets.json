@@ -405,6 +405,18 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore.Tools/7.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "7.0.11"
+        },
+        "compile": {
+          "lib/net6.0/_._": {}
+        },
+        "runtime": {
+          "lib/net6.0/_._": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
         "type": "package",
         "build": {
@@ -1657,6 +1669,49 @@
           "lib/net6.0/ZstdSharp.dll": {}
         }
       },
+      "CarStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CarStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarStore.Core.dll": {}
+        }
+      },
+      "CarStore.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CarStore.Core": "1.0.0",
+          "MassTransit.EntityFrameworkCore": "8.1.0",
+          "MassTransit.RabbitMQ": "8.1.0",
+          "Microsoft.EntityFrameworkCore": "7.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.11"
+        },
+        "compile": {
+          "bin/placeholder/CarStore.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarStore.Infrastructure.dll": {}
+        }
+      },
+      "CarStore.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "CarStore.Core": "1.0.0",
+          "Events": "1.0.0",
+          "MassTransit": "8.1.0"
+        },
+        "compile": {
+          "bin/placeholder/CarStore.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarStore.Services.dll": {}
+        }
+      },
       "Events/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2192,6 +2247,31 @@
         "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
         "microsoft.entityframeworkcore.sqlserver.7.0.11.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Tools/7.0.11": {
+      "sha512": "dhNLVQsMi6E4XEkVNmxbaNkLd06Q0ipwgiBz9k9rSjzaNJQVUA+/N6lsKRWXjFjTPgsaVpos+KN5Iimy6TQ2Yg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.tools/7.0.11",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/_._",
+        "microsoft.entityframeworkcore.tools.7.0.11.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.nuspec",
+        "tools/EntityFrameworkCore.PS2.psd1",
+        "tools/EntityFrameworkCore.PS2.psm1",
+        "tools/EntityFrameworkCore.psd1",
+        "tools/EntityFrameworkCore.psm1",
+        "tools/about_EntityFrameworkCore.help.txt",
+        "tools/init.ps1",
+        "tools/net461/any/ef.exe",
+        "tools/net461/win-arm64/ef.exe",
+        "tools/net461/win-x86/ef.exe",
+        "tools/netcoreapp2.0/any/ef.dll",
+        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
@@ -4577,6 +4657,21 @@
         "zstdsharp.port.nuspec"
       ]
     },
+    "CarStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../../CarStore.Core/CarStore.Core.csproj",
+      "msbuildProject": "../../CarStore.Core/CarStore.Core.csproj"
+    },
+    "CarStore.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../CarStore.Infrastructure/CarStore.Infrastructure.csproj",
+      "msbuildProject": "../../CarStore.Infrastructure/CarStore.Infrastructure.csproj"
+    },
+    "CarStore.Services/1.0.0": {
+      "type": "project",
+      "path": "../../CarStore.Services/CarStore.Services.csproj",
+      "msbuildProject": "../../CarStore.Services/CarStore.Services.csproj"
+    },
     "Events/1.0.0": {
       "type": "project",
       "path": "../../Events/Events.csproj",
@@ -4586,13 +4681,15 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "CarStore.Infrastructure >= 1.0.0",
+      "CarStore.Services >= 1.0.0",
       "Events >= 1.0.0",
       "MassTransit.EntityFrameworkCore >= 8.1.0",
       "MassTransit.RabbitMQ >= 8.1.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.11",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
-      "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
       "Microsoft.Extensions.Http.Polly >= 7.0.11",
       "MongoDB.Entities >= 22.1.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -4630,6 +4727,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Workspace\\Car Store\\CarStore.Infrastructure\\CarStore.Infrastructure.csproj": {
+              "projectPath": "C:\\Workspace\\Car Store\\CarStore.Infrastructure\\CarStore.Infrastructure.csproj"
+            },
+            "C:\\Workspace\\Car Store\\CarStore.Services\\CarStore.Services.csproj": {
+              "projectPath": "C:\\Workspace\\Car Store\\CarStore.Services\\CarStore.Services.csproj"
+            },
             "C:\\Workspace\\Car Store\\Events\\Events.csproj": {
               "projectPath": "C:\\Workspace\\Car Store\\Events\\Events.csproj"
             }
@@ -4666,13 +4769,13 @@
             "target": "Package",
             "version": "[7.0.11, )"
           },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.11, )"
           },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.11, )"
           },

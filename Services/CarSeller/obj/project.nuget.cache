@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ihy9znuu51vNS9202sli2PvcCbhrpeC0423+ArBPQPVXp7a6LxFTDoVQijDYWlz51INGiMC8z7/cORtM2Dw5CA==",
+  "dgSpecHash": "jGUx1REqqwXVuJNCJC20AMv/NAiRP/WrcWTcl1hgsxAzSjcKakhw81jPNCSPa2bvx5bG2Mc3CkgzG66J5Gsk1A==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Car Store\\Services\\CarSeller\\CarSeller.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.11\\microsoft.entityframeworkcore.design.7.0.11.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.11\\microsoft.entityframeworkcore.relational.7.0.11.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.11\\microsoft.entityframeworkcore.sqlserver.7.0.11.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.11\\microsoft.entityframeworkcore.tools.7.0.11.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

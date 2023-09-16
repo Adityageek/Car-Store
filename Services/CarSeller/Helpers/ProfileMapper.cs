@@ -1,18 +1,19 @@
 ﻿using CarSeller.Dtos;
-using CarSeller.Entities;
 using AutoMapper;
 using Events;
+using CarStore.Core.Models;
 
 namespace CarSeller.Helpers
 {
     public class ProfileMapper : Profile
     {
-        public ProfileMapper() 
+        public ProfileMapper()
         {
             CreateMap<Car, CarDto>();
             CreateMap<CreateCarDto, Car>();
             CreateMap<CarDto, CarCreated>();
             CreateMap<Car, CarUpdated>();
+            CreateMap<UpdateCarDto, Car>();
         }
     }
 }

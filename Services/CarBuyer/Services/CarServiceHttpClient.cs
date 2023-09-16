@@ -16,7 +16,7 @@ namespace CarBuyer.Services
         public async Task<List<Car>> GetCarsForSearchDb()
         {
             return await _httpClient.GetFromJsonAsync<List<Car>>(_config["CarServiceUrl"]
-                + "/api/cars");
+                + "/api/car");
         }
     }
 }
