@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Tlzxvziz2jd8BdlPeH0EdQkG35wZ+2HSQZ10omiprs=",
+  "Hash": "mRLDXhOhMbkcSXkrLumk2+lWNUoXz/z83mfxC55pKOk=",
   "Source": "CarSeller",
   "BasePath": "_content/CarSeller",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "Events",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
