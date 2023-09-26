@@ -5,7 +5,6 @@ C:\Workspace\Car Store\Events\bin\Debug\net6.0\Events.deps.json
 C:\Workspace\Car Store\Events\bin\Debug\net6.0\Events.runtimeconfig.json
 C:\Workspace\Car Store\Events\bin\Debug\net6.0\Events.dll
 C:\Workspace\Car Store\Events\bin\Debug\net6.0\Events.pdb
-C:\Workspace\Car Store\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
 C:\Workspace\Car Store\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
 C:\Workspace\Car Store\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
 C:\Workspace\Car Store\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
