@@ -46,7 +46,7 @@ namespace CarSeller.Controllers
         }
 
         [HttpGet("{guid}")]
-        public async Task<ActionResult<CarDto>> GetCarByIdDuplicates(Guid guid)
+        public async Task<ActionResult<CarDto>> GetCarByIdDuplicatesssss(Guid guid)
         {
             var cars = await _carService.GetCarById(guid);
 
