@@ -49,4 +49,3 @@ C:\Workspace\CarStore\Events\obj\Release\net6.0\refint\Events.dll
 C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.pdb
 C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.genruntimeconfig.cache
 C:\Workspace\CarStore\Events\obj\Release\net6.0\ref\Events.dll
-C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.csproj.AssemblyReference.cache
