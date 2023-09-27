@@ -1,3 +1,6 @@
+using BenchmarkDotNet.Running;
+using CarSeller.Controllers;
+using CarSeller.Middlewares;
 using CarStore.Infrastructure;
 using CarStore.Services.Interface;
 using CarStore.Services.Services;
@@ -15,6 +18,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+// Register ILogger service
+builder.Services.AddLogging(loggingBuilder =>
+{
+    loggingBuilder.AddSeq(builder.Configuration.GetSection("Seq"));
+});
 
 //Configure RabbitMQ
 builder.Services.AddMassTransit(x =>
@@ -46,6 +54,22 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
+app.UseRouting();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers(); // Map your regular API controllers
+
+    // Add a custom endpoint for triggering benchmarks
+    endpoints.MapGet("/runbenchmarks", async context =>
+    {
+        // You can run the benchmarks here
+        var summary = BenchmarkRunner.Run<CarController>();
+
+        await context.Response.WriteAsync("Benchmarks completed. Check console for results.");
+    });
+});
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -53,10 +77,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseSwagger();
+app.UseSwaggerUI();
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.MapControllers();
-
+app.UseRequestResponseLogging();
 app.Run();

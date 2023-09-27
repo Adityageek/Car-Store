@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using BenchmarkDotNet.Attributes;
 using CarSeller.Dtos;
 using CarStore.Core.Models;
 using CarStore.Services.Interface;
@@ -10,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 namespace CarSeller.Controllers
 {
     [Route("api/[controller]")]
+    [MemoryDiagnoser]
     public class CarController : Controller
     {
         private readonly ICarService _carService;

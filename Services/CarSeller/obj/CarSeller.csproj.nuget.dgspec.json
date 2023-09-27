@@ -402,6 +402,10 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.8, )"
+            },
             "MassTransit.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.1.0, )"
@@ -435,6 +439,10 @@
             "MongoDB.Entities": {
               "target": "Package",
               "version": "[22.1.0, )"
+            },
+            "Seq.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
