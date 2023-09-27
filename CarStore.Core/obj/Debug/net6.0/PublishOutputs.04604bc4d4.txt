@@ -1,0 +1,3 @@
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\publish\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\publish\CarStore.Core.deps.json
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\publish\CarStore.Core.pdb
