@@ -24,3 +24,28 @@ C:\Workspace\Car Store\Events\obj\Release\net6.0\Events.pdb
 C:\Workspace\Car Store\Events\obj\Release\net6.0\Events.genruntimeconfig.cache
 C:\Workspace\Car Store\Events\obj\Release\net6.0\ref\Events.dll
 C:\Workspace\Car Store\Events\obj\Release\net6.0\Events.csproj.AssemblyReference.cache
+C:\Workspace\CarStore\Events\bin\Release\net6.0\appsettings.Development.json
+C:\Workspace\CarStore\Events\bin\Release\net6.0\appsettings.json
+C:\Workspace\CarStore\Events\bin\Release\net6.0\Events.exe
+C:\Workspace\CarStore\Events\bin\Release\net6.0\Events.deps.json
+C:\Workspace\CarStore\Events\bin\Release\net6.0\Events.runtimeconfig.json
+C:\Workspace\CarStore\Events\bin\Release\net6.0\Events.dll
+C:\Workspace\CarStore\Events\bin\Release\net6.0\Events.pdb
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.AssemblyInfoInputs.cache
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.AssemblyInfo.cs
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.csproj.CoreCompileInputs.cache
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets\msbuild.Events.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets\msbuild.build.Events.props
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Events.props
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Events.props
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets.pack.json
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets.build.json
+C:\Workspace\CarStore\Events\obj\Release\net6.0\staticwebassets.development.json
+C:\Workspace\CarStore\Events\obj\Release\net6.0\scopedcss\bundle\Events.styles.css
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.dll
+C:\Workspace\CarStore\Events\obj\Release\net6.0\refint\Events.dll
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.pdb
+C:\Workspace\CarStore\Events\obj\Release\net6.0\Events.genruntimeconfig.cache
+C:\Workspace\CarStore\Events\obj\Release\net6.0\ref\Events.dll

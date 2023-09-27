@@ -9,3 +9,14 @@ C:\Workspace\Car Store\CarStore.Core\obj\Debug\net6.0\CarStore.Core.dll
 C:\Workspace\Car Store\CarStore.Core\obj\Debug\net6.0\refint\CarStore.Core.dll
 C:\Workspace\Car Store\CarStore.Core\obj\Debug\net6.0\CarStore.Core.pdb
 C:\Workspace\Car Store\CarStore.Core\obj\Debug\net6.0\ref\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\CarStore.Core.deps.json
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Core\bin\Debug\net6.0\CarStore.Core.pdb
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.AssemblyInfoInputs.cache
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.AssemblyInfo.cs
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.csproj.CoreCompileInputs.cache
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\refint\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.pdb
+C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\ref\CarStore.Core.dll

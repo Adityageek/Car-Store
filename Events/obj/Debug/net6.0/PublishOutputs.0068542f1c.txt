@@ -1,0 +1,7 @@
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\Events.exe
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\Events.dll
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\Events.deps.json
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\Events.runtimeconfig.json
+C:\Workspace\CarStore\Events\obj\Debug\net6.0\PubTmp\Out\Events.pdb

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "haMKuEtKSsG1MeLP5YgY7jBmdYU31glpVnFgisl5A0I=",
+  "Hash": "85E/bob+Ph/59upBqkOfCq2gi8BZnN8cQWWFN3mc+MI=",
   "Source": "CarBuyer",
   "BasePath": "_content/CarBuyer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Workspace\\Car Store\\Events\\Events.csproj",
+      "Identity": "C:\\Workspace\\CarStore\\Events\\Events.csproj",
       "Version": 2,
       "Source": "Events",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

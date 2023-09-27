@@ -15,3 +15,20 @@ C:\Workspace\Car Store\CarStore.Infrastructure\obj\Debug\net6.0\refint\CarStore.
 C:\Workspace\Car Store\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.pdb
 C:\Workspace\Car Store\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.genruntimeconfig.cache
 C:\Workspace\Car Store\CarStore.Infrastructure\obj\Debug\net6.0\ref\CarStore.Infrastructure.dll
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Infrastructure.deps.json
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Infrastructure.runtimeconfig.json
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Infrastructure.dll
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Infrastructure.pdb
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Core.dll
+C:\Workspace\CarStore\CarStore.Infrastructure\bin\Debug\net6.0\CarStore.Core.pdb
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.AssemblyInfo.cs
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.csproj.CopyComplete
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.dll
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\refint\CarStore.Infrastructure.dll
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.pdb
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\CarStore.Infrastructure.genruntimeconfig.cache
+C:\Workspace\CarStore\CarStore.Infrastructure\obj\Debug\net6.0\ref\CarStore.Infrastructure.dll

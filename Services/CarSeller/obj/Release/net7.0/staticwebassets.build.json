@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "o2XNZFgLv8ZOhEvNjffiQARkEgUJXYi1WEVIzNvLJSs=",
+  "Hash": "81tWsyp1zzxMIOQjQYfMMdxkf1XHjDcT6HNCpkfGeG8=",
   "Source": "CarSeller",
   "BasePath": "_content/CarSeller",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Workspace\\Car Store\\Events\\Events.csproj",
+      "Identity": "C:\\Workspace\\CarStore\\Events\\Events.csproj",
       "Version": 2,
       "Source": "Events",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

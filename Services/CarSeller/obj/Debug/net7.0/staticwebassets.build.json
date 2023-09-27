@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "Hash": "mRLDXhOhMbkcSXkrLumk2+lWNUoXz/z83mfxC55pKOk=",
+  "Hash": "Y/6AxY4244MZIT0D3sRGQJJ6TP+3okW6WWsUS0Q+TJU=",
   "Source": "CarSeller",
   "BasePath": "_content/CarSeller",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Workspace\\Car Store\\Events\\Events.csproj",
+      "Identity": "C:\\Workspace\\CarStore\\Events\\Events.csproj",
       "Version": 2,
       "Source": "Events",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
