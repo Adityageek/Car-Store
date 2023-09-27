@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Workspace\\CarStore\\CarStore.Core\\CarStore.Core.csproj",
         "projectName": "CarStore.Core",
         "projectPath": "C:\\Workspace\\CarStore\\CarStore.Core\\CarStore.Core.csproj",
-        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
         "outputPath": "C:\\Workspace\\CarStore\\CarStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -83,14 +83,14 @@
         "projectUniqueName": "C:\\Workspace\\CarStore\\CarStore.Services\\CarStore.Services.csproj",
         "projectName": "CarStore.Services",
         "projectPath": "C:\\Workspace\\CarStore\\CarStore.Services\\CarStore.Services.csproj",
-        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
         "outputPath": "C:\\Workspace\\CarStore\\CarStore.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -173,14 +173,14 @@
         "projectUniqueName": "C:\\Workspace\\CarStore\\Events\\Events.csproj",
         "projectName": "Events",
         "projectPath": "C:\\Workspace\\CarStore\\Events\\Events.csproj",
-        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
         "outputPath": "C:\\Workspace\\CarStore\\Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -3430,7 +3430,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\dell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3439,14 +3439,14 @@
       "projectUniqueName": "C:\\Workspace\\CarStore\\CarStore.Infrastructure\\CarStore.Infrastructure.csproj",
       "projectName": "CarStore.Infrastructure",
       "projectPath": "C:\\Workspace\\CarStore\\CarStore.Infrastructure\\CarStore.Infrastructure.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
       "outputPath": "C:\\Workspace\\CarStore\\CarStore.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
