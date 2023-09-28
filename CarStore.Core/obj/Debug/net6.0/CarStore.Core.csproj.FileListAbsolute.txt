@@ -20,4 +20,3 @@ C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.dll
 C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\refint\CarStore.Core.dll
 C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.pdb
 C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\ref\CarStore.Core.dll
-C:\Workspace\CarStore\CarStore.Core\obj\Debug\net6.0\CarStore.Core.csproj.AssemblyReference.cache

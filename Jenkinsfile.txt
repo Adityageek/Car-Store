@@ -29,7 +29,7 @@ pipeline {
     bat 'net stop "w3svc"'
     
     // Deploy package to IIS
-    bat '"C:\\Program Files (x86)\\IIS\\Microsoft Web Deploy V3\\msdeploy.exe" -verb:sync -source:package="C:\\Workspace\\CarStore\\Services\\CarSeller\\bin\\Debug\\net7.0\\CarSeller.zip" -dest:auto -setParam:"IIS Web Application Name"="CarStoreBlueOcean" -skip:objectName=filePath,absolutePath=".\\\\PackageTmp\\\\Web.config$" -enableRule:DoNotDelete -allowUntrusted=true'
+    bat '"C:\\Program Files (x86)\\IIS\\Microsoft Web Deploy V3\\msdeploy.exe" -verb:sync -source:package="C:\\Workspace\\CarStore\\Services\\CarSeller\\bin\\Debug\\net7.0\\CarSeller.zip" -dest:auto -setParam:"IIS Web Application Name"="CarStoreWeb" -skip:objectName=filePath,absolutePath=".\\\\PackageTmp\\\\Web.config$" -enableRule:DoNotDelete -allowUntrusted=true'
     
     // Start IIS again
     bat 'net start "w3svc"'
