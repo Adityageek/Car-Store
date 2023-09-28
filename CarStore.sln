@@ -9,13 +9,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSeller", "Services\CarSe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBuyer", "Services\CarBuyer\CarBuyer.csproj", "{70B3CA73-40D3-49A7-81C0-C276C3062681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{0BD73C6F-0D86-4766-B882-21C39F805720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{0BD73C6F-0D86-4766-B882-21C39F805720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Core", "CarStore.Core\CarStore.Core.csproj", "{8299653C-4D41-4D06-BC62-31FFD181D439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarStore.Core", "CarStore.Core\CarStore.Core.csproj", "{8299653C-4D41-4D06-BC62-31FFD181D439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Infrastructure", "CarStore.Infrastructure\CarStore.Infrastructure.csproj", "{F60499F6-8FA4-4579-8B37-9133441CFF04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarStore.Infrastructure", "CarStore.Infrastructure\CarStore.Infrastructure.csproj", "{F60499F6-8FA4-4579-8B37-9133441CFF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStore.Services", "CarStore.Services\CarStore.Services.csproj", "{5B116E37-6206-4DA4-9D07-6E23647EE9E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarStore.Services", "CarStore.Services\CarStore.Services.csproj", "{5B116E37-6206-4DA4-9D07-6E23647EE9E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{968439D2-49D3-4531-AAEC-706592DAC3F0}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile.txt = Jenkinsfile.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
