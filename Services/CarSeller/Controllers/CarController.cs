@@ -45,10 +45,10 @@ namespace CarSeller.Controllers
             return _mapper.Map<CarDto>(cars);
         }
 
-        [HttpGet("{guiddssssqqq1234}")]
-        public async Task<ActionResult<CarDto>> GetCarByIdDuplicatessssssssddddsss(Guid guiddssssqqq1234)
+        [HttpGet("{guiddssssqqq12345}")]
+        public async Task<ActionResult<CarDto>> GetCarByIdDuplicatessssssssddddsss(Guid guiddssssqqq12345)
         {
-            var cars = await _carService.GetCarById(guiddssssqqq1234);
+            var cars = await _carService.GetCarById(guiddssssqqq12345);
 
             return _mapper.Map<CarDto>(cars);
         }
