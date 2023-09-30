@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PUBRo/fybXFul/GYvCaWhc9lBRsmuZ0E6e5IMgNay5eepjvh36JU5agQ4R87o5bhgiaw227pGmdG9jg0HdMHSg==",
+  "dgSpecHash": "3GcbYiSwbQIYlmV4aDhoT2cu/+DTMnMnwvI17z5Ri3C7IjgtJr9fHT7T54UGMvlcZcDiB1dbpg2urd59ofbNbg==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\CarStore\\CarStore.Core\\CarStore.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }
